@@ -1,0 +1,9 @@
+HI Worls : 23/12/2023 
+
+Let's explain the structure =>
+
+Lecture Folder contains -> Lectures and code of its classes 
+Assignments Folder contains -> Assignments of Algoprep
+CommunityAlgoIntegrate Folder contains -> Lecture and Assignments code and vedios from both the teacher Kunal and Algoprep team
+
+Thank you 
